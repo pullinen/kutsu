@@ -1,0 +1,76 @@
+@font-face {
+    font-family: 'medieval';
+    src: URL('Magicmedieval-pRV1.ttf') format('truetype');
+}
+
+body {
+    font-family: 'medieval';
+    width: 720px;
+    margin: 20px auto;
+    border: 1px solid black;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+p {
+    margin: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#motto {
+    font-size: 42px;
+    margin: 28px auto 20px;
+}
+
+#tervetuloa {
+    font-size: 20px;
+    margin: 20px auto 0;
+}
+
+#el {
+    font-size: 42px;
+    margin-top: 0;
+}
+
+#korona {
+    font-size: 20px;
+    margin-bottom: 6px;
+}
+
+#pvm {
+    font-size: 32px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+#pirtti {
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+#maljat {
+    font-size: 20px;
+    margin-top: 34px;
+    margin-bottom: 22px;
+}
+
+#luvassa {
+    margin-bottom: 2px;
+}
+
+#ohjelma {
+    margin-bottom: 20px;
+    margin-top: 4px;
+    margin-bottom: 32px;
+}
+
+.tiedot {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+p:last-of-type {
+    margin-bottom: 30px;
+}
