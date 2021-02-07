@@ -10,6 +10,11 @@ body {
     border: 1px solid black;
 }
 
+#paperi {
+    display: inline-block;
+    background-color: antiquewhite;
+}
+
 h1, h2, h3 {
     text-align: center;
 }
